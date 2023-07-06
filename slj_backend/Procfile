@@ -1,0 +1,1 @@
+web: gunicorn slj_backend.wsgi
